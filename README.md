@@ -1,6 +1,6 @@
 ## Hi there 👋 
 ## I am Stefanos
-an ELectrical and Computer Engineer in the making 🤓🤓
+### an Eectrical and Computer Engineer in the making 🤓🤓
 
 
  ### 🔭 I’m currently working on :
